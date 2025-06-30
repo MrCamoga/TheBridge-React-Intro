@@ -12,16 +12,19 @@ const Home = () => (
         </p>
       </section>
       <section>
-        <li>I'm from Spain</li>
-        <li>I love videogames</li>
-        <li>I like stargazing and astrophotography</li>
-        <li>I like playing guitar and piano</li>
-        <li>My main programming language is Java</li>
-        <li>I have my own home server I used to self-host server applications and sometimes videogames</li>
-        <li>I host a webpage focused on classifying patterns on Langton's Ant cellular automaton (<a href="https://langtonsant.es">https://langtonsant.es</a>)</li>
+        <h3>Some things about me:</h3>
+        <ul>
+          <li>I'm from Spain</li>
+          <li>I love videogames</li>
+          <li>I like stargazing and astrophotography</li>
+          <li>I like playing guitar and piano</li>
+          <li>My main programming language is Java</li>
+          <li>I have my own home server I used to self-host server applications and sometimes videogames</li>
+          <li>I host a webpage focused on classifying patterns on Langton's Ant cellular automaton (<a href="https://langtonsant.es">https://langtonsant.es</a>)</li>
+        </ul>
       </section>
       <section>
-        <h3>Some technologies I use:</h3>
+        <h3>Technologies I use:</h3>
         <ul>
           <li>General purpose programming: Java, Python, C.</li>
           <li>Web Development: PHP, HTML, CSS, JS, Node.js, Wordpress.</li>
